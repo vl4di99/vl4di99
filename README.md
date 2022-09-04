@@ -1,4 +1,4 @@
-/header.png
+[![MasterHead](/header.png)]
 ### Hi there 👋
 
 <!--
