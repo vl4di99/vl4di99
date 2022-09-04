@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://www.reactjs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original.svg" alt="c" width="50" height="50"/><a href="https://www.nextjs.org" target="_blank"></a><span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <a href="https://www.reactjs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="c" width="50" height="50"/><a href="https://www.w3schools.com/cpp/" target="_blank"></a><span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<a href="https://www.reactjs.org" target="_blank"><img src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png" alt="c" width="50" height="50"/><a href="https://www.reactnative.dev" target="_blank"></a><span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<a href="https://www.reactjs.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="c" width="50" height="50"/><a href="https://www.reactnative.dev" target="_blank"></a><span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
  </p>
 
 <!--
