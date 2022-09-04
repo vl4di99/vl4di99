@@ -1,4 +1,4 @@
-![MasterHead](/banner.png)
+![MasterHead](/bannerNew.png)
 
 ### I have experience in creating Front-End applications by using ReactJS, Next.JS and React Native and Back-End applications by using Express.JS and Python-Flask.
 
