@@ -1,5 +1,6 @@
-![MasterHead](/header.png)
-### Hi there 👋
+![MasterHead](/banner.png)
+
+### I have experience in creating Front-End applications by using ReactJS, Next.JS and React Native and Back-End applications by using Express.JS and Python-Flask.
 
 <!--
 **vl4di99/vl4di99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
