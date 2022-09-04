@@ -3,6 +3,7 @@
 ### I have experience in creating Front-End applications by using ReactJS, Next.JS and React Native and Back-End applications by using Express.JS and Python-Flask.
 
 <hr/>
+<p align="center"><img src="https://github.com/vl4di99/vl4di99/blob/main/hackerman.gif" width="150"></p>
 <h3 align="center">Technology Backpack:</h3>
 <p align="center">
 <a href="https://www.nextjs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original.svg" alt="NextJS" width="50" height="50"/></a><span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -38,20 +39,34 @@
 </p>
 <hr/>
 
- <h3 align="center">Other Technologies in Backpack:</h3>
+<p align="center"><img src="https://github.com/vl4di99/vl4di99/blob/main/heartsoul.gif" width="150"></p>
+<h3 align="center">Other Technologies in Backpack:</h3>
 <p align="center">
 <a href="https://www.recoiljs.org" target="_blank"><img src="https://recoiljs.org/fr/img/logo.svg" alt="RecoilJS" width="100" height="50"/></a><span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <a href="https://www.styled-components.com" target="_blank"><img src="https://miro.medium.com/max/636/1*p1TndLk3UsGPBsM7qHPZIw.png" alt="Styled Components" width="50" height="50"/></a><span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <a href="https://www.chakra-ui.com" target="_blank"><img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logo-colored.svg?raw=true" alt="Chakra UI" width="150" height="50"/></a><span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <a href="https://www.axios-http.com" target="_blank"><img src="https://github.com/axios/axios-docs/blob/908d04c524e088ae7fde8a57a527e54710a4a5ab/assets/logo.svg" alt="Axios" width="150" height="50"/></a><span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <a href="https://www.lodash.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Lodash.svg" alt="LoDash" width="50" height="50"/></a><span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-
- 
- 
 </p>
-<hr/>
 - 🌱 I’m currently learning:
     - Typescript 
+<hr/>
+<p align="center"><img src="https://github.com/vl4di99/vl4di99/blob/main/socialmedia.gif" width="150"></p>
+<h3 align="center">Reach me out on:</h3>
+<p align="center">
+</p>
+<hr/>
+<p align="center"><img src="https://github.com/vl4di99/vl4di99/blob/main/stats.gif" width="150"></p>
+<h3 align="center">GitHub Stats:</h3>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=vl4di99&show_icons=true&theme=radical&count_private=true">
+</p>
+<hr/>
+<p align="center"><img src="https://github.com/vl4di99/vl4di99/blob/main/team.gif" width="150"></p>
+<h3 align="center">Team Projects</h3>
+<p align="center">
+<img src="
+
 
 
 <!--
