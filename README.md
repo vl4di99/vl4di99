@@ -59,13 +59,18 @@
 <p align="center"><img src="https://github.com/vl4di99/vl4di99/blob/main/stats.gif" width="150"></p>
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vl4di99&show_icons=true&theme=radical&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api?username=vl4di99&show_icons=true&theme=algolia&count_private=true" width="400">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vl4di99&langs_count=5&layout=compact&theme=algolia" width="330">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vl4di99&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0">
 </p>
 <hr/>
 <p align="center"><img src="https://github.com/vl4di99/vl4di99/blob/main/team.gif" width="150"></p>
 <h3 align="center">Team Projects</h3>
 <p align="center">
-<img src="
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vl4di99&repo=GitHub-Evozon-2.0-NextJS&theme=vue">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vl4di99&repo=Pokemon-Rock-Paper-Scissors-ReactJS&theme=vue">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vl4di99&repo=papafam-hackathon-journal&theme=vue">
+</p>
 
 
 
