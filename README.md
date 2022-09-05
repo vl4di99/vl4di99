@@ -63,6 +63,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vl4di99&langs_count=5&layout=compact&theme=algolia" width="330">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vl4di99&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0">
 </p>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=vl4di99&column=8&theme=vue&column=4&margin-w=10&margin-h=10&no-frame=true">
+</p>
 <hr/>
 <p align="center"><img src="https://github.com/vl4di99/vl4di99/blob/main/team.gif" width="150"></p>
 <h3 align="center">Team Projects</h3>
