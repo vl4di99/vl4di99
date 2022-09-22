@@ -50,6 +50,8 @@
 </p>
 - 🌱 I’m currently learning:
     - Typescript 
+    - Redux
+    - Postgre SQL
 <hr/>
 <p align="center"><img src="https://github.com/vl4di99/vl4di99/blob/main/socialmedia.gif" width="150"></p>
 <h3 align="center">Reach me out on:</h3>
