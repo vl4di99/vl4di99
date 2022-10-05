@@ -47,6 +47,7 @@
 <a href="https://www.chakra-ui.com" target="_blank"><img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logo-colored.svg?raw=true" alt="Chakra UI" width="150" height="50"/></a><span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <a href="https://www.axios-http.com" target="_blank"><img src="https://github.com/axios/axios-docs/blob/908d04c524e088ae7fde8a57a527e54710a4a5ab/assets/logo.svg" alt="Axios" width="150" height="50"/></a><span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <a href="https://www.lodash.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Lodash.svg" alt="LoDash" width="50" height="50"/></a><span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<a href="https://www.graphql.org/" target="_blank"><img src="https://avatars.githubusercontent.com/u/12972006?s=200&v=4" alt="GraphQL" width="50" height="50"/></a><span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
 </p>
 - 🌱 I’m currently learning:
     - Typescript 
